@@ -12,7 +12,7 @@ Python 3.10 (Google Colab default runtime)
 **Transformer-based features**
 - BERT embeddings extracted using Hugging Face Transformers
 ## Requirements
-- Python 3.8+
+- Python
 - NumPy
 - Pandas
 - Scikit-learn
